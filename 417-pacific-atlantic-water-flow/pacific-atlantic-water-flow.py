@@ -1,5 +1,5 @@
 #BFS
-'''class Solution:
+class Solution:
   def pacificAtlantic(self, heights: list[list[int]]) -> list[list[int]]:
     DIRS = ((0, 1), (1, 0), (0, -1), (-1, 0))
     m = len(heights)
@@ -38,9 +38,9 @@
     bfs(qP, seenP)
     bfs(qA, seenA)
 
-    return [[i, j] for i in range(m) for j in range(n) if seenP[i][j] and seenA[i][j]]'''
+    return [[i, j] for i in range(m) for j in range(n) if seenP[i][j] and seenA[i][j]]
 #DFS
-class Solution:
+'''class Solution:
   def pacificAtlantic(self, heights: list[list[int]]) -> list[list[int]]:
     m = len(heights)
     n = len(heights[0])
@@ -70,4 +70,4 @@ class Solution:
     return [[i, j]
             for i in range(m)
             for j in range(n)
-            if seenP[i][j] and seenA[i][j]]
+            if seenP[i][j] and seenA[i][j]]'''
