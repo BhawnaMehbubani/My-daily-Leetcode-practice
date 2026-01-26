@@ -77,3 +77,15 @@ note:
   - This repository reflects continuous daily practice
   - Solutions may evolve with better optimizations over time
   - Maintained for long-term DSA mastery
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
