@@ -15,35 +15,6 @@ about:
     - Prepare for coding interviews
     - Track learning progress over time
 
-repository_structure:
-  My-daily-Leetcode-practice:
-    ├── Arrays/
-    │   └── Problems based on array manipulation and traversal
-    ├── Strings/
-    │   └── String processing and pattern-based problems
-    ├── LinkedList/
-    │   └── Linked list operations and algorithms
-    ├── Stack/
-    │   └── Stack-based problem solving
-    ├── Queue/
-    │   └── Queue and deque related problems
-    ├── Recursion/
-    │   └── Recursive problem solving
-    ├── Sorting/
-    │   └── Sorting techniques and related problems
-    ├── Searching/
-    │   └── Binary search and searching algorithms
-    ├── Hashing/
-    │   └── Hash maps, sets, and frequency-based problems
-    ├── Dynamic Programming/
-    │   └── DP patterns and optimization problems
-    ├── Trees/
-    │   └── Binary trees and traversal problems
-    ├── Graphs/
-    │   └── Graph traversal and algorithmic problems
-    ├── README.md
-    └── .gitignore
-
 topics_covered:
   core_dsa:
     - Arrays
