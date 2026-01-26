@@ -8,7 +8,5 @@ class Solution:
             n=x%10
             s=s*10+n
             x=x//10
-        if s==num:
-            return True
-        return False
+        return s==num
         
