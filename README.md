@@ -1,23 +1,108 @@
-# My-daily-Leetcode-practice
+```yaml
+project:
+  name: My Daily LeetCode Practice
+  description: >
+    A personal repository documenting my daily LeetCode problem-solving journey.
+    Focused on improving data structures, algorithms, and coding efficiency
+    through consistent practice and well-documented solutions.
+    Designed to support interview preparation and long-term problem-solving mastery.
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0001-two-sum) |
-| [0066-plus-one](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0066-plus-one) |
-| [1200-minimum-absolute-difference](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/1200-minimum-absolute-difference) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0001-two-sum) |
-## Math
-|  |
-| ------- |
-| [0066-plus-one](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/0066-plus-one) |
-## Sorting
-|  |
-| ------- |
-| [1200-minimum-absolute-difference](https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice/tree/master/1200-minimum-absolute-difference) |
-<!---LeetCode Topics End-->
+about:
+  goal:
+    - Practice LeetCode problems daily
+    - Strengthen Data Structures and Algorithms (DSA)
+    - Improve problem-solving and logical thinking
+    - Prepare for coding interviews
+    - Track learning progress over time
+
+repository_structure:
+  My-daily-Leetcode-practice:
+    ├── Arrays/
+    │   └── Problems based on array manipulation and traversal
+    ├── Strings/
+    │   └── String processing and pattern-based problems
+    ├── LinkedList/
+    │   └── Linked list operations and algorithms
+    ├── Stack/
+    │   └── Stack-based problem solving
+    ├── Queue/
+    │   └── Queue and deque related problems
+    ├── Recursion/
+    │   └── Recursive problem solving
+    ├── Sorting/
+    │   └── Sorting techniques and related problems
+    ├── Searching/
+    │   └── Binary search and searching algorithms
+    ├── Hashing/
+    │   └── Hash maps, sets, and frequency-based problems
+    ├── Dynamic Programming/
+    │   └── DP patterns and optimization problems
+    ├── Trees/
+    │   └── Binary trees and traversal problems
+    ├── Graphs/
+    │   └── Graph traversal and algorithmic problems
+    ├── README.md
+    └── .gitignore
+
+topics_covered:
+  core_dsa:
+    - Arrays
+    - Strings
+    - Linked Lists
+    - Stack and Queue
+    - Recursion
+  algorithms:
+    - Sorting Algorithms
+    - Searching Algorithms
+    - Hashing Techniques
+    - Dynamic Programming
+  advanced_topics:
+    - Tree Traversals
+    - Graph Algorithms
+    - Problem Optimization Techniques
+
+problem_format:
+  typical_solution_contains:
+    - Problem statement
+    - Approach explanation
+    - Python solution
+    - Edge cases handling
+    - Time complexity analysis
+    - Space complexity analysis
+
+usage:
+  learning_flow:
+    - Attempt the problem independently
+    - Review the solution in this repository
+    - Analyze the approach and complexity
+    - Optimize or add alternative solutions
+  supported_languages:
+    - Python
+
+setup:
+  prerequisites:
+    - Python 3.x
+    - Git
+    - Any code editor (VS Code, PyCharm, etc.)
+  steps:
+    - git clone https://github.com/BhawnaMehbubani/My-daily-Leetcode-practice.git
+    - cd My-daily-Leetcode-practice
+    - Open problem folders
+    - Run solutions using python <filename>.py
+
+contributing:
+  welcome: true
+  how_to_contribute:
+    - Add new LeetCode solutions
+    - Improve explanations or comments
+    - Add optimized or alternate approaches
+    - Raise pull requests
+
+license:
+  type: Open Source
+  usage: Free for learning and interview preparation
+
+note:
+  - This repository reflects continuous daily practice
+  - Solutions may evolve with better optimizations over time
+  - Maintained for long-term DSA mastery
